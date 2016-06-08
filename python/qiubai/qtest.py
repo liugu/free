@@ -1,7 +1,6 @@
 # -*- coding:utf-8 -*-
 import urllib
 import urllib2
-
 page = 1
 url = 'http://www.qiushibaike.com/hot/page/' + str(page)
 user_agent = 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36'
